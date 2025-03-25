@@ -1,0 +1,281 @@
+.title-chobby {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #B0C4DE;
+  color: white;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: auto;
+  margin-bottom: 0;
+  vertical-align: top;
+}
+
+.sub-chobby {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: white;
+  background-color: #5F9EA0;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.seal-picture {
+  width: 595px;
+  height: 595px;
+  background-color: #5F9EA0;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.disclaimer-chobby {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: white;
+  background-color: #DC143C;
+  text-align: center;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.lets-get-started-button {
+  font-family: Pixelify Sans;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  background-color: #FF69B4;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.lets-get-started-button:hover {
+  background-color: rgb(220, 75, 193)
+}
+
+.number-one {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: pink;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.rupaul-image {  
+  width: auto;
+  background-color: pink;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+
+
+.rupaul-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: rgb(187, 88, 105);
+  background-color: pink;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.rupaul-bold {
+  font-weight: bold;
+  color: black;
+}
+
+.number-two {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #CD5C5C;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.donald-image {  
+  width: auto;
+  background-color: #CD5C5C;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.donald-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  background-color: #CD5C5C;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.number-three {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #778899;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.harry-image {  
+  width: auto;
+  background-color: #778899;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.harry-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: white;
+  background-color: #778899;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.number-four {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #F4A460;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.gary-image {  
+  width: auto;
+  background-color: #F4A460;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.gary-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: white;
+  background-color: #F4A460;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.revenge-extra {
+  color: black;
+}
+
+.number-five {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #008080;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.polar-image {  
+  width: auto;
+  background-color: #008080;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.polar-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: white;
+  background-color: #008080;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.number-six {
+  font-family: Pixelify Sans;
+  font-size: 40px;
+  background-color: #9ACD32;
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 0px;
+}
+
+.idina-image {  
+  width: auto;
+  background-color: #9ACD32;
+  padding-left: 29vw;
+  padding-right: 28.6vw;
+  margin: auto;
+  display: block;
+}
+
+.idina-description {
+  font-family: Pixelify Sans;
+  font-size: 20px;
+  color: #263508;
+  background-color: #9ACD32;
+  text-align: center;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
